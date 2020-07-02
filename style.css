@@ -1,0 +1,7 @@
+svg {
+  width: 100vh;
+  height: 100vh;
+  display: block;
+  margin: 0 auto;
+  /* border: 1px solid black; */
+}
